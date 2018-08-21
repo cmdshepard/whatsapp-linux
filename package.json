@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-linux",
+  "version": "1.0.0",
+  "description": "An Electron wrapper for WhatsApp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "repository": "https://github.com/cmdshepard/whatsapp-linux",
+  "keywords": [
+    "whatsapp",
+    "desktop",
+    "linux"
+  ],
+  "author": "Maz Ahmadi",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "electron-packager": "^12.1.1"
+  }
+}
