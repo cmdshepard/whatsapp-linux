@@ -7,7 +7,7 @@ A minimal electron wrapper for WhatsApp Web.
 * Yarn 1.9.+
 
 ## Build for Your Distro
-The following command will build the a binary for your linux distribution using [electron-packager](https://github.com/electron-userland/electron-packager).
+The following command will build a binary for your linux distribution using [electron-packager](https://github.com/electron-userland/electron-packager).
 ```
 $ yarn && yarn build
 ```
